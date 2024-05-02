@@ -1,0 +1,23 @@
+.container{
+    width: 1200px;
+    margin: 0px auto;
+}
+
+
+.main__section{
+    background-image: url("https://zos.alipayobjects.com/rmsportal/gGlUMYGEIvjDOOw.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 860px;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+.main__section .container{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+}
+
